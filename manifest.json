@@ -1,1 +1,20 @@
-{"name":"Блокҳои Рангин / Цветные блоки","short_name":"Блокҳо","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#c9b296","theme_color":"#c9b296","lang":"ru","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "./",
+  "name": "Блокҳои Рангин / Цветные блоки",
+  "short_name": "Блокҳо",
+  "description": "Блокҳои Рангин / Цветные блоки",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#c9b296",
+  "theme_color": "#c9b296",
+  "lang": "ru",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
